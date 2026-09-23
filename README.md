@@ -1,8 +1,6 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=117&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&reversal=false&fontSize=43&fontColor=FFFFFF&fontAlign=66&fontAlignY=50&rotate=0&stroke=FFFFFF&strokeWidth=5&animation=fadeIn&descSize=10&descAlign=42&descAlignY=40&textBg=false&color=172429"  />
 </div>
-
-###
 
 <h1 data-importer="text" align="left">Olá, eu sou a Ana Beatriz! 👋🏻👩🏻‍💻</h1>
 
@@ -41,14 +39,14 @@
 <br clear="both">
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anabeatrizfrez/anabeatrizfrez/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anabeatrizfrez/anabeatrizfrez/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anabeatrizfrez/anabeatrizfrez/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anabeatrizfrez/anabeatrizfrez/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anabeatrizfrez/anabeatrizfrez/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anabeatrizfrez/anabeatrizfrez/pacman-output/breakout-contribution-graph.svg?game=breakout">
 </picture>
 
 ###
 
-<div data-importer="socials" align="left">
+<div data-importer="socials" align="right">
   <a href="https://www.linkedin.com/in/anabeatrizfrez/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="32" alt="linkedin logo"  />
   </a>
