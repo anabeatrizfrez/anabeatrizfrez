@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<img data-importer="image" align="right" height="160" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFmdnIyZGdiNjU3bm16NGNla2Mzc3JzeDdpM2Z4dDgwcGs0ZG4weiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M0WjHhGx87PoY/200.webp"  />
+<img data-importer="image" align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFmdnIyZGdiNjU3bm16NGNla2Mzc3JzeDdpM2Z4dDgwcGs0ZG4weiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M0WjHhGx87PoY/200.webp"  />
 
 ###
 
@@ -21,10 +21,12 @@
   <img width="30" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="52" alt="react logo"  />
   <img width="30" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="52" alt="postman logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="52" alt="tailwindcss logo"  />
   <img width="30" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="52" alt="git logo"  />
-  <img width="30" />
+
+  <br><br>
+
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="52" alt="docker logo"  />
   <img width="30" />
   <img src="https://cdn.simpleicons.org/jenkins/D24939" height="52" alt="jenkins logo"  />
@@ -32,9 +34,13 @@
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="52" alt="postgresql logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="52" alt="linux logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="52" alt="postman logo"  />
 </div>
 
 ###
+
+<br><br>
 
 <br clear="both">
 
